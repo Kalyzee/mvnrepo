@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>queue-manager</groupId>
+  <artifactId>com.kalyzee.framework</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20131214232407</lastUpdated>
+  </versioning>
+</metadata>
